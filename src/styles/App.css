@@ -353,6 +353,14 @@ a { text-decoration: none; }
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    .left {
+        text-align: center;
+      }
+    
+      .right {
+        text-align: center;
+      }
   }
 }
 

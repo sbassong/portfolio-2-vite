@@ -1,8 +1,16 @@
-# React + Vite
+###  [Live Portfolio](https://www.sambassong.com/) | [GitHub](https://github.com/sbassong) | [LinkedIn](https://www.linkedin.com/in/sambassong/)
+#### By: Sam Bassong
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+***
 
-Currently, two official plugins are available:
+### ***Description***
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+####  Version 2.1 of website portfolio, migrated from CRA to Vite.
+
+***
+
+### ***Getting Started***
+1. Run `npm install` to install the necessary dependencies
+2. Run `npm start` to start the react-app server
+3. Head to `http://localhost:3000/` on your favorite browser
+
