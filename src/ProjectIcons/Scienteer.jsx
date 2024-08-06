@@ -8,7 +8,6 @@ import Express from '../../src/assets/skillsIcons/Express.svg?react';
 import Flask from '../../src/assets/skillsIcons/Flask.svg?react';
 import AWS from '../../src/assets/skillsIcons/AWS.svg?react';
 
-
 const Scienteer = () => {
 	return (
 		<div className="tech-container">
@@ -23,6 +22,6 @@ const Scienteer = () => {
 			<AWS className='tech-item'/>
 		</div>
 	)
-}
+};
 
 export default Scienteer;

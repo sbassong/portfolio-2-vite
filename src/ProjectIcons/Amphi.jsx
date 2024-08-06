@@ -19,6 +19,6 @@ const Amphi = () => {
 			<MongooseJS className='tech-item' />
 		</div>
 	)
-}
+};
 
 export default Amphi;

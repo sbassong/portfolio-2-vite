@@ -1,4 +1,3 @@
-// Languages
 import JavaScript from '../../src/assets/skillsIcons/JavaScript.svg?react';
 import NodeJS from '../../src/assets/skillsIcons/Node.js.svg?react';
 import PostgreSQL from '../../src/assets/skillsIcons/PostgresSQL.svg?react';
@@ -15,6 +14,6 @@ const ShopifyCRUD = () => {
 			<Sequelize className='tech-item'/>
 		</div>
 	)
-}
+};
 
 export default ShopifyCRUD;

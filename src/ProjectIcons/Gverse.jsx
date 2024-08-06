@@ -19,6 +19,6 @@ const Gverse = () => {
 			
 		</div>
 	)
-}
+};
 
 export default Gverse;

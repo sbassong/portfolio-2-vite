@@ -1,5 +1,4 @@
 html {
-  background: rgb(20, 20, 53) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -24,6 +23,7 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden !important;
+  background: rgb(20, 20, 53) no-repeat center center fixed;
 }
 
 .App {
@@ -341,7 +341,7 @@ a { text-decoration: none; }
   }
 
   .landing-subtitle {
-    margin-bottom: 2rem
+    margin-bottom: 3rem
   }
 }
 

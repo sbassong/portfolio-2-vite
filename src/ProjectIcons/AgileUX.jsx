@@ -10,6 +10,6 @@ const AgileUX = () => {
 			<HTML5 className='tech-item'/>
 		</div>
 	)
-}
+};
 
 export default AgileUX;
