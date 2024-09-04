@@ -7,7 +7,7 @@ const TopNav = () => {
 		<div className="top-nav">
 			<div className="top-nav-wrap">
 				<NavLink className='top-left-nav' to='/'>
-					<img src="https://i.ibb.co/HPvd2c6/Screen-Shot-2021-12-09-at-10-29-23-AM-copy.png" alt="owl"/>
+					<img src="https://github.com/user-attachments/assets/8d061128-a678-44b8-aaf9-62ce9017d8db" alt="Sam Bassong portfolio's logo"/>
 				</NavLink>
 				<ProfileMenu />
 				<TopLeftSideNav />

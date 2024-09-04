@@ -18,7 +18,7 @@ function App() {
           <Route path='/stack' exact element={<Skills />} />
         </Routes>
       </main>
-      <LeftSideNav /> 
+      <LeftSideNav />
     </div>
   )
 }
