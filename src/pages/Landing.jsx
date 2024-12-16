@@ -10,8 +10,8 @@ const Landing = () => {
             Software Developer
           </div>
           <p className="teal left landing-blurb">Innovative ideas.</p>
-          <p className="teal center landing-blurb">Scalable systems.</p>
-          <p className="teal right landing-blurb">Powerful solutions.</p>
+          <p className="teal center landing-blurb">Scalable designs.</p>
+          <p className="teal right landing-blurb">Optimized solutions.</p>
         </div>
     </div>
   );
