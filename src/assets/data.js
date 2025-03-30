@@ -5,7 +5,7 @@ export const professionalProjectsData = [
         title: "G-verse",
         description: "Full-stack PERN application, featuring Auth with JSON Web Token.",
         image: "https://i.imgur.com/EflUNcn.png",
-        link: "https://gverse.herokuapp.com/",
+        link: "https://g-verse-frontend.vercel.app/",
         github: "https://github.com/sbassong/g-verse"
     },
     {
@@ -21,7 +21,7 @@ export const professionalProjectsData = [
         title: "Amphi",
         description: "Full-stack MERN mock events search app. Deployed on Heroku.",
         image: "https://i.imgur.com/VFOix4s.png",
-        link: "https://amphi.herokuapp.com/",
+        link: "https://amphi.onrender.com/",
         github: "https://github.com/sbassong/amphi"
     },
     {
