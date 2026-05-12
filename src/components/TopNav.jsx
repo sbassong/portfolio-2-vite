@@ -15,7 +15,7 @@ const TopNav = () => {
 					<NavLink to='/' className='no-display' activeclassname="active">Home</NavLink>
 					<NavLink to='/projects' className='no-display' activeclassname="active">Projects</NavLink>
 					<NavLink to='/stack' className='no-display' activeclassname="active">Stack</NavLink>
-					<a className='resume-link' href="https://drive.google.com/file/d/1oYKyaHaM1yW303glGqHOR08yG1AeNK2L/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
+					<a className='resume-link' href="https://drive.google.com/file/d/1otifVWd7PIypEgS4e1xql90JMSR7-cWs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
 				</nav>
 			</div>
 		</div>
